@@ -11,6 +11,7 @@
 
 ---
 
+
 ## 🧮Para que servem os operadores aritméticos
 
 Os operadores aritméticos são utilizados para realizar operações matemáticas entre variáveis e constantes. Vale lembrar que uma constante não pode ser alterada durante a execução do programa, mas ela pode ser utilizada para realizar operações mateḿaticas.
