@@ -37,6 +37,14 @@ Para criar um programa em C, você precisa de um editor de texto. Você pode usa
 
     É importante lembrar que para o código funcionar, você precisa digitar o código `exatamente` como está acima. Qualquer erro de digitação pode fazer com que o programa não funcione.
 
+    Alguns cuidados que você deve ter ao digitar o código:
+
+    - A linha 1 do código termina com `;` (ponto e vírgula). Todas as linhas de código que terminam com `;` são chamadas de instruções. É importante que todas as instruções terminem com `;` (ponto e vírgula).
+
+    - A linha 3 do código termina com `{` (chave aberta). Todas as linhas de código que terminam com `{` (chave aberta) são chamadas de blocos de código. Todo bloco de código deve ser fechado com `}` (chave fechada). No código acima, o bloco de código da linha 3 é fechado na linha 6.
+
+    
+
 2. Salve o arquivo com o nome `hello.c` na área de trabalho ou em qualquer outro lugar que você preferir. É importante que o nome do arquivo termine com a extensão `.c`, pois essa extensão indica que o arquivo contém um programa em C.
 
     Antes de compilar o programa, vamos analisar o que cada linha desse código significa?
